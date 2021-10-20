@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+.DS_Store
+/en_US/
+/en_US/*
+/shiny-app/data/*15*
+/shiny-app/data/*20*

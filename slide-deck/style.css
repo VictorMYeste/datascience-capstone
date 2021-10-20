@@ -1,0 +1,14 @@
+.section .reveal .state-background {
+    background-image: url("https://cdn.sick.com/media/895/2/12/812/IM0092812.png");
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.play-button{
+    display: inline-block;
+    padding: 30px 80px !important;
+    background: #003961;
+    color: #FFF !important;
+}
